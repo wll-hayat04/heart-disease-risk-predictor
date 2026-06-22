@@ -12,6 +12,7 @@ A machine learning web application that predicts the risk of **Coronary Heart Di
 ---
 
 ## 📸 Demo
+<img width="1872" height="833" alt="image" src="https://github.com/user-attachments/assets/ab46ef05-5b14-4ad7-81d5-2f6f35d030e0" />
 
 
 ---
